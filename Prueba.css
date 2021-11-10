@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(70, 3, 3);
+    color: white;
+    font-family: cursive, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#left {
+    float: left;
+    margin-right: -120px;
+    margin-top: 2px;
+}
+
+#right {
+    float: right;
+    margin-left: 20px;
+    margin-top: -108px;
+}
+
+#center h1 {
+    text-align: center;
+}
+
+h2,
+h3,
+h4,
+h5 {
+    font-size: 25px;
+}
+
+#redes a {
+    float: left;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+footer {
+    background: black;
+    color: white;
+}
+
+#left,
+#center,
+#right {
+    background: rgb(61, 1, 61);
+    color: white;
+}
